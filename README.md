@@ -1,4 +1,4 @@
-# Prosper Loan Analytcs
+# Financial Loan Analysis
 The core of this analysis addresses pivotal questions impacting the financial dimensions of lending on the Prosper platform. It explores the determinants of borrower APRs and interest rates, the relationship between loan amounts and their terms, and the factors influencing loan outcomes. Employing a mix of quantitative analysis and data visualization, Financial Loan Analysis reveals the complex interplay between borrower profiles and loan performance.
 
 ## Dataset
